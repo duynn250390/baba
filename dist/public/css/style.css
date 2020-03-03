@@ -429,7 +429,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 img:not([alt]),
 img[alt=''] {
-  border: 5px solid red; }
+  border: 5px solid #000; }
 
 @keyframes zoom {
   0% {
